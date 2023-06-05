@@ -9,5 +9,5 @@ import "fmt"
 
 // Print is a function that belongs to a built-in Go package, which is called fmt
 func main() {
-	fmt.Print("Hello World")
+	fmt.Println("Hello World")
 }
